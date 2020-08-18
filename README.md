@@ -1,7 +1,6 @@
 # Your-Protection-Pro
 
-<hr>
-
+<h3>[Russian]</h3>
 <h2>О программе:</h2>
 
 - Эта программа служит защитой ваших данных на компьютаре, в файлах, где хранятся ваши логины, пароли и любые другие данные.
@@ -20,7 +19,7 @@
 
 <hr>
 
-
+<h3>[English]</h3>
 <h2>About the program:</h2> 
 
 - This program protects your data on your computer, in files where your logins, passwords and any other data are stored.
